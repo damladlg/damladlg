@@ -7,9 +7,9 @@ I living in Antalya, Turkey. I am a student of Computer Engineering at Eskişehi
 
 ### Statistics about my Github account
 
-![Profile views](https://gpvc.arturio.dev/Naereen)
+![Profile views](https://gpvc.arturio.dev/damladlg)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=damladlg&theme=blue-green)
 
 ### How to reach me 
 
