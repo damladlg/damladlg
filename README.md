@@ -9,9 +9,9 @@ I living in Antalya, Turkey. I am a student of Computer Engineering at Eskişehi
 
 ![Profile views](https://gpvc.arturio.dev/damladlg)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=damladlg&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damladlg&layout=compact)]
 
-### How to reach me 
+### How to reach me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/damladlg) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=000&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/damladlg/) 
