@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Damla
 
-<!--
-**damladlg/damladlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I living in Antalya, Turkey. I am a student of Computer Engineering at Eskişehir Osmangazi University.
+ 
+- 🌱 I’m currently working on Python, C#
+- 💻 Skills: C / C++ / C# / HTML / CSS / Linux System Management
 
-Here are some ideas to get you started:
+### Statistics about my Github account
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://gpvc.arturio.dev/Naereen)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+
+### How to reach me 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/damladlg) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=000&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/damladlg/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=000&logo=Medium&logoColor=white&link=link)](https://medium.com/@damladlg)
