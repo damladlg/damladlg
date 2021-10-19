@@ -2,8 +2,8 @@
 
 I living in Antalya, Turkey. I am a student of Computer Engineering at Eskişehir Osmangazi University.
  
-- 🌱 I’m currently working on Vue.js
-- 💻 Skills: C / C++ / C# / HTML / CSS / Linux System Management
+- 🌱 I’m currently learning on React.js
+- 💻 Skills: C / C++ / C# / HTML / CSS / Vue.js / Flutter / Linux System Management
 
 ### Statistics about my Github account
 
