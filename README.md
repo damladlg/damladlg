@@ -9,7 +9,6 @@ I living in Antalya, Turkey. I am a student of Computer Engineering at Eskişehi
 
 ![Profile views](https://gpvc.arturio.dev/damladlg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damladlg&layout=compact)
 
 ### How to reach me
 
