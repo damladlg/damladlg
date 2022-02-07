@@ -9,7 +9,8 @@ I living in Antalya, Turkey. I am a student of Computer Engineering at Eskişehi
 
 ![Profile views](https://gpvc.arturio.dev/damladlg)
 
-![Damla Dalgic's Github Stats](https://github-readme-stats.vercel.app/api?username=damladlg)]
+![Damla Dalgic's Github Stats](https://github-readme-stats.vercel.app/api?username=damladlg)
+
 ### How to reach me
 
 <a target="_blank" href="https://www.linkedin.com/in/damla-dalgic/">
