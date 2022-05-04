@@ -2,7 +2,7 @@
 
 I living in Antalya, Turkey. I am a student of Computer Engineering at Eskişehir Osmangazi University.
  
-- 🌱 I’m currently learning on Python and PostgreSQL
+- 🌱 I’m currently learning Machine Learning on Python.
 - 💻 Skills: C / C++ / C# / HTML / CSS / Vue.js / React.js / Flutter / Linux System Management
 
 ### Statistics about my Github account
